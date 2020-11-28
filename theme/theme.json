@@ -1,0 +1,9 @@
+{
+  "fonts": {
+    "primary": "Inter"
+  },
+  "color": {
+    "primary": "#FACB2F",
+    "secondary": "#CFD9E1"
+  }
+}

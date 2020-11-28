@@ -1,0 +1,23 @@
+{
+  "presets": ["next/babel"],
+  "plugins": [
+    ["styled-components", { "ssr": true }],
+    [
+      "import",
+      {
+        "libraryName": "antd",
+        "style": true
+      }
+    ],
+    [
+      "module-resolver",
+      {
+        "root": ["./"],
+        "extension": [".ts", ".tsx", ".json"],
+        "alias": {
+          "@": "./"
+        }
+      }
+    ]
+  ]
+}

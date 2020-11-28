@@ -1,0 +1,8 @@
+{
+  "emailRequire": "Please input your email!",
+  "emailUnValid": "Email not valid",
+  "passwordRequire": "Please input your password!",
+  "passwordUnValid": "Password not valid",
+  "fullNameRequire": "Please input your fullname!",
+  "passwordDontMatch": "The two passwords that you entered do not match!"
+}

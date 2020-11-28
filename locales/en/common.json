@@ -1,0 +1,13 @@
+{
+  "title": "Work with your team",
+  "welcomeBack": "Welcome back!",
+  "joinWithUs": "Join with us",
+  "resetPassword": "Reset Password",
+  "botTitle": "Smarter - Faster - Easier",
+  "searchPlaceholder": "Da Nang, Viet Nam",
+  "forgotPassword": "Forgot Password",
+  "forgotPasswordDescription": "Enter the email address you registered with Smartos",
+  "smartosRegisterDesc": "By register I agree to Smartos's",
+  "smartosRegisterBotDesc": "Term of Services & Pivacy Policy",
+  "resetPasswordSuccess": "A link to reset your password has been to sent to {{ email }}"
+}
